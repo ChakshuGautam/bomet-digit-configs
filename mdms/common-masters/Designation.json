@@ -1,0 +1,3113 @@
+[
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "Field Worker",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Field Worker - HealthServices"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "Nursing Officer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Nursing Officer - HealthServices"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_1004",
+      "name": "Administrator",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Administrator - HealthServices"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "Field Worker",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Field Worker - HealthServices"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "Nursing Officer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Nursing Officer - HealthServices"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "code": "DESIG_1004",
+      "name": "Administrator",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "Administrator - HealthServices"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "pg.cicounts",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.cicounts",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.cicounts",
+    "data": {
+      "code": "DESIG_1004",
+      "name": "CI_SCOPE_DESIG_14531",
+      "active": true,
+      "department": [
+        "DEPT_38"
+      ],
+      "description": "CI_SCOPE_DESIG_14531 - CI_SCOPE_DEPT_14531"
+    }
+  },
+  {
+    "tenantId": "pg.cicounts",
+    "data": {
+      "code": "DESIG_1005",
+      "name": "CI_SCOPE_DESIG_30831",
+      "active": true,
+      "department": [
+        "DEPT_39"
+      ],
+      "description": "CI_SCOPE_DESIG_30831 - CI_SCOPE_DEPT_30831"
+    }
+  },
+  {
+    "tenantId": "pg.cidept",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.cidept",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.cidesig",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.cidesig",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.ciemp14628",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.ciemp14628",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.ciemp31074",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.ciemp31074",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.citest",
+    "data": {
+      "code": "DESIG_1002",
+      "name": "engineer",
+      "active": true,
+      "department": [
+        "DEPT_36"
+      ],
+      "description": "engineer - WATER DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "pg.citest",
+    "data": {
+      "code": "DESIG_1003",
+      "name": "LME",
+      "active": true,
+      "department": [
+        "DEPT_37"
+      ],
+      "description": "LME - ELECTRIC DEPARTMENT"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "AO",
+      "name": "Accounts Officer",
+      "active": true,
+      "description": "Accounts Officer"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "COMM",
+      "name": "Commissioner",
+      "active": true,
+      "description": "Commissioner"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_01",
+      "name": "Superintending Engineer ( B&R)",
+      "active": true,
+      "description": "Superintending Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_02",
+      "name": "Corporation Engineer (B&R)",
+      "active": true,
+      "description": "Corporation Engineer (B&R)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_03",
+      "name": "Asst. Engineer ( B&R)",
+      "active": true,
+      "description": "Asst. Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_04",
+      "name": "Junior Engineer ( B&R)",
+      "active": true,
+      "description": "Junior Engineer ( B&R)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_05",
+      "name": "Land Scape Officer",
+      "active": true,
+      "description": "Land Scape Officer"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_06",
+      "name": "Superintending Engineer ( O&M)",
+      "active": true,
+      "description": "Superintending Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_07",
+      "name": "Corporation Engineer (O&M)",
+      "active": true,
+      "description": "Corporation Engineer (O&M)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_08",
+      "name": "Asst. Engineer ( O&M)",
+      "active": true,
+      "description": "Asst. Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_09",
+      "name": "Junior Engineer ( O&M)",
+      "active": true,
+      "description": "Junior Engineer ( O&M)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_10",
+      "name": "Superintending Engineer ( Light)",
+      "active": true,
+      "description": "Superintending Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_1001",
+      "name": "Deputy Controller Finance and Accounts",
+      "active": true,
+      "description": "Deputy Controller Finance and Accounts"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_11",
+      "name": "Corporation Engineer (Light)",
+      "active": true,
+      "description": "Corporation Engineer (Light)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_12",
+      "name": "Junior Engineer ( Light)",
+      "active": true,
+      "description": "Junior Engineer ( Light)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_13",
+      "name": "Health Officer",
+      "active": true,
+      "description": "Health Officer"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_14",
+      "name": "Medical Officer",
+      "active": true,
+      "description": "Medical Officer"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "active": true,
+      "description": "Mechanical Oversear"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "active": true,
+      "description": "Clerk"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "active": true,
+      "description": "Accountant"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_18",
+      "name": "Senior Town Planner",
+      "active": true,
+      "description": "Senior Town Planner"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_19",
+      "name": "Municipal Town Planner",
+      "active": true,
+      "description": "Municipal Town Planner"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_20",
+      "name": "Asst. Town Planner",
+      "active": true,
+      "description": "Asst. Town Planner"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_21",
+      "name": "Building Inspector",
+      "active": true,
+      "description": "Building Inspector"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_22",
+      "name": "Junior Enginer ( Horticulutre)",
+      "active": true,
+      "description": "Junior Enginer ( Horticulutre)"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_23",
+      "name": "Citizen service representative",
+      "active": true,
+      "description": "Citizen service representative"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_24",
+      "name": "Assistant Commissioner",
+      "active": true,
+      "description": "Assistant Commissioner"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_47",
+      "name": "Superintendent",
+      "active": true,
+      "description": "Superintendent"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "DESIG_58",
+      "name": "Accountant",
+      "active": true,
+      "description": "Accountant"
+    }
+  }
+]

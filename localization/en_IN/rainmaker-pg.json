@@ -1,0 +1,416 @@
+[
+  {
+    "code": "APPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__CAST_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Cast Certificate"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__CAST_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Cast Certificate"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__CAST_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Cast Certificate"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__INCOME_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Income Certificate"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__INCOME_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Income Certificate"
+  },
+  {
+    "code": "APPLICATION_UPLOAD__INCOME_CERTIFICATE",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Income Certificate"
+  },
+  {
+    "code": "DATEAPPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "DATEAPPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "DATEAPPLICATION_UPLOAD__AADHAAR_DETAILS",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Aadhaar Details"
+  },
+  {
+    "code": "DOCUMENT_UPLOAD",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Upload Documents"
+  },
+  {
+    "code": "DOCUMENT_UPLOAD",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Upload Documents"
+  },
+  {
+    "code": "DOCUMENT_UPLOAD",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Upload Documents"
+  },
+  {
+    "code": "DSS_PROPERTY_TAX",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Property Tax"
+  },
+  {
+    "code": "DSS_PROPERTY_TAX",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Property Tax"
+  },
+  {
+    "code": "DSS_PROPERTY_TAX",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Property Tax"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Sabiyan"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Sabiyan"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Sabiyan"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Melka Jebdu"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Melka Jebdu"
+  },
+  {
+    "code": "PG_ADDISABABA_ADMIN_ADD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Melka Jebdu"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Adama"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Adama"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Adama"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "PG_AMHARA_ADMIN_AMR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Bahar Dar"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Bahar Dar"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Bahar Dar"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Gonder"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Gonder"
+  },
+  {
+    "code": "PG_DIRADAWA_ADMIN_DRD02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Gonder"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Nefas Silk Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Nefas Silk Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR01",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Nefas Silk Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Lemi Kura Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Lemi Kura Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR02",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Lemi Kura Subcity"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR03",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR03",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "PG_OROMIA_ADMIN_OR03",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Piasa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDIS_ABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDIS_ABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDIS_ABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDISABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDISABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_ADDISABABA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Addis Ababa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_AMHARA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Ethopia"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_AMHARA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Ethopia"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_AMHARA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Ethopia"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYA_PDF_HEADER",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City A Municipalty"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYA_PDF_HEADER",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City A Municipalty"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYA_PDF_HEADER",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City A Municipalty"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYB",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City B"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYB",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City B"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_CITYB",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "City B"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIRADAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIRADAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIRADAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIREDAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIREDAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_DIREDAWA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Dire Dawa"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_OROMIA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Oromia"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_OROMIA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Oromia"
+  },
+  {
+    "code": "TENANT_TENANTS_PG_OROMIA",
+    "locale": "en_IN",
+    "module": "rainmaker-pg",
+    "message": "Oromia"
+  }
+]

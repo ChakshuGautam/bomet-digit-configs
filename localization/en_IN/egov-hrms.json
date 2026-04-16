@@ -1,0 +1,50 @@
+[
+  {
+    "code": "hrms.employee.create.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password Visit your profile at $applink, Thank you."
+  },
+  {
+    "code": "hrms.employee.create.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password, Thank you."
+  },
+  {
+    "code": "hrms.employee.create.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password, Thank you."
+  },
+  {
+    "code": "hrms.employee.create.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Hi $employeename, Welcome to mSeva. Your profile has been successfully set-up : Username - $username Password - $password, Thank you."
+  },
+  {
+    "code": "hrms.employee.reactivation.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Dear <Employee Name>,\nYour profile with employee Username <Username>has been activated on <date>."
+  },
+  {
+    "code": "hrms.employee.reactivation.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Dear {Employee Name},\nYour profile with employee Username {Username} has been activated on {date}. Your one-time password is {password}. Please change your password using the link below\n{link}\n\nEGOVS"
+  },
+  {
+    "code": "hrms.employee.reactivation.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Dear <Employee Name>,\nYour profile with employee Username <Username>has been activated on <date>."
+  },
+  {
+    "code": "hrms.employee.reactivation.notification",
+    "locale": "en_IN",
+    "module": "egov-hrms",
+    "message": "Dear <Employee Name>,\nYour profile with employee Username <Username>has been activated on <date>."
+  }
+]

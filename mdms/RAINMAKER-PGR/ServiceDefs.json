@@ -1,0 +1,4829 @@
+[
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Absenteeism / Staff shortage affecting delivery",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Absenteeism/StaffShortageAffectingDelivery"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Ambulance breakdown / Crew unresponsive",
+      "active": true,
+      "keywords": "ambulance delay",
+      "menuPath": "Ambulance Delays",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "AmbulanceBreakdown/CrewUnresponsive"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Ambulance delayed or did not arrive",
+      "active": true,
+      "keywords": "ambulance delay",
+      "menuPath": "Ambulance Delays",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "AmbulanceDelayedOrDidNotArrive"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Appointment cancelled / Excessive delays",
+      "active": true,
+      "keywords": "appointment delay",
+      "menuPath": "Service Scheduling Complaints",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "AppointmentCancelled/ExcessiveDelays"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Assault / Patient fall / Poor crowd control",
+      "active": true,
+      "keywords": "theft, security",
+      "menuPath": "Security & Patient Safety Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Assault/PatientFall/PoorCrowdControl"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Bed shortage (Patients sharing / On floor)",
+      "active": true,
+      "keywords": "bed sharing, floor",
+      "menuPath": "Overcrowding in Wards",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "BedShortage(patientsSharing/OnFloor)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Breach of patient confidentiality",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "BreachOfPatientConfidentiality"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Card unrecognized / Pending pre-authorization",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "CardUnrecognized/PendingPre-authorization"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Chronic absenteeism / Poor performance",
+      "active": true,
+      "keywords": "misconduct",
+      "menuPath": "Human Resource Disciplinary Cases",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "ChronicAbsenteeism/PoorPerformance"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Damaged beds / BP machines / IT systems",
+      "active": true,
+      "keywords": "lab, xray",
+      "menuPath": "Equipment Non-Functional",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "DamagedBeds/BpMachines/ItSystems"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Defibrillator / Suction machine failure",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Defibrillator/SuctionMachineFailure"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Delayed/No surveillance team deployed",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Delayed/noSurveillanceTeamDeployed"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Delay in attending / No skilled staff available",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInAttending/NoSkilledStaffAvailable"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Delay in documentation / Specialist review",
+      "active": true,
+      "keywords": "referral delay",
+      "menuPath": "Referral Delays",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInDocumentation/SpecialistReview"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Delay in lab results / pharmacy / discharge",
+      "active": true,
+      "keywords": "opd wait, queue",
+      "menuPath": "Long Waiting Time",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInLabResults/Pharmacy/Discharge"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Delay in treatment / Failure to monitor",
+      "active": true,
+      "keywords": "misdiagnosis, error",
+      "menuPath": "Medical Negligence / Malpractice",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInTreatment/FailureToMonitor"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Denied admission",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "DeniedAdmission"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Dirty wards, toilets, or foul odor",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DirtyWards,Toilets,OrFoulOdor"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Dismissive / Ignoring patient concerns",
+      "active": true,
+      "keywords": "dismissive",
+      "menuPath": "Staff Attitude",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "Dismissive/IgnoringPatientConcerns"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Drug Stock-Outs",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DrugStock-outs"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Expired drugs issued",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "ExpiredDrugsIssued"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Failure to isolate cases / Lack of testing kits",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "FailureToIsolateCases/LackOfTestingKits"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Gross misconduct / Abuse of authority",
+      "active": true,
+      "keywords": "misconduct",
+      "menuPath": "Human Resource Disciplinary Cases",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "GrossMisconduct/AbuseOfAuthority"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Incubator / Backup generator failure",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Incubator/BackupGeneratorFailure"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Informal payment / Double billing / Overcharging",
+      "active": true,
+      "keywords": "double bill, bribe",
+      "menuPath": "Illegal Charges / Corruption",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "InformalPayment/DoubleBilling/Overcharging"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Lab / X-ray / Dental equipment malfunction",
+      "active": true,
+      "keywords": "lab, xray",
+      "menuPath": "Equipment Non-Functional",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "Lab/X-ray/DentalEquipmentMalfunction"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Lack of running water",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "LackOfRunningWater"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Long queues at Registration / OPD / Triage",
+      "active": true,
+      "keywords": "opd wait, queue",
+      "menuPath": "Long Waiting Time",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "LongQueuesAtRegistration/Opd/Triage"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Misdiagnosis / Wrong medication / Surgical error",
+      "active": true,
+      "keywords": "misdiagnosis, error",
+      "menuPath": "Medical Negligence / Malpractice",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "Misdiagnosis/WrongMedication/SurgicalError"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Neonatal equipment unavailable / not working",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "NeonatalEquipmentUnavailable/NotWorking"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "No ambulance / Referral rejected by receiver",
+      "active": true,
+      "keywords": "referral delay",
+      "menuPath": "Referral Delays",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "NoAmbulance/ReferralRejectedByReceiver"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "No fumigation / Poor public communication",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "NoFumigation/PoorPublicCommunication"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "No official receipt / Fraudulent billing collusion",
+      "active": true,
+      "keywords": "double bill, bribe",
+      "menuPath": "Illegal Charges / Corruption",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "NoOfficialReceipt/FraudulentBillingCollusion"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Overcrowded Maternity / Pediatric wards",
+      "active": true,
+      "keywords": "bed sharing, floor",
+      "menuPath": "Overcrowding in Wards",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "OvercrowdedMaternity/PediatricWards"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Partial service / Discharge delayed due to SHA",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "PartialService/DischargeDelayedDueToSha"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Pharmacy closed",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "PharmacyClosed"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Policy gaps / Budget deficiencies",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "PolicyGaps/BudgetDeficiencies"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Poor waste disposal / Pest infestation",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "PoorWasteDisposal/PestInfestation"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Power / water outage affecting maternity",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Power/WaterOutageAffectingMaternity"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Repeated failure across facilities",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "RepeatedFailureAcrossFacilities"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Respiratory failure (Oxygen / Ventilator)",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "RespiratoryFailure(oxygen/Ventilator)"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Rude conduct / Negligence / Refusal to serve",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "RudeConduct/Negligence/RefusalToServe"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Service postponed",
+      "active": true,
+      "keywords": "appointment delay",
+      "menuPath": "Service Scheduling Complaints",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "ServicePostponed"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "System-wide ICT / Procurement failures",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "System-wideIct/ProcurementFailures"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Theft / Unauthorized access / Lack of security",
+      "active": true,
+      "keywords": "theft, security",
+      "menuPath": "Security & Patient Safety Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Theft/UnauthorizedAccess/LackOfSecurity"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Treatment denied / System offline",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "TreatmentDenied/SystemOffline"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "name": "Verbal abuse / Intimidation / Discriminatory",
+      "active": true,
+      "keywords": "dismissive",
+      "menuPath": "Staff Attitude",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "VerbalAbuse/Intimidation/Discriminatory"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Absenteeism / Staff shortage affecting delivery",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Absenteeism/StaffShortageAffectingDelivery"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Ambulance breakdown / Crew unresponsive",
+      "active": true,
+      "keywords": "ambulance delay",
+      "menuPath": "Ambulance Delays",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "AmbulanceBreakdown/CrewUnresponsive"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Ambulance delayed or did not arrive",
+      "active": true,
+      "keywords": "ambulance delay",
+      "menuPath": "Ambulance Delays",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "AmbulanceDelayedOrDidNotArrive"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Appointment cancelled / Excessive delays",
+      "active": true,
+      "keywords": "appointment delay",
+      "menuPath": "Service Scheduling Complaints",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "AppointmentCancelled/ExcessiveDelays"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Assault / Patient fall / Poor crowd control",
+      "active": true,
+      "keywords": "theft, security",
+      "menuPath": "Security & Patient Safety Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Assault/PatientFall/PoorCrowdControl"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Bed shortage (Patients sharing / On floor)",
+      "active": true,
+      "keywords": "bed sharing, floor",
+      "menuPath": "Overcrowding in Wards",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "BedShortage(patientsSharing/OnFloor)"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Breach of patient confidentiality",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "BreachOfPatientConfidentiality"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Card unrecognized / Pending pre-authorization",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "CardUnrecognized/PendingPre-authorization"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Chronic absenteeism / Poor performance",
+      "active": true,
+      "keywords": "misconduct",
+      "menuPath": "Human Resource Disciplinary Cases",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "ChronicAbsenteeism/PoorPerformance"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Damaged beds / BP machines / IT systems",
+      "active": true,
+      "keywords": "lab, xray",
+      "menuPath": "Equipment Non-Functional",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "DamagedBeds/BpMachines/ItSystems"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Defibrillator / Suction machine failure",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Defibrillator/SuctionMachineFailure"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Delayed/No surveillance team deployed",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Delayed/noSurveillanceTeamDeployed"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Delay in attending / No skilled staff available",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInAttending/NoSkilledStaffAvailable"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Delay in documentation / Specialist review",
+      "active": true,
+      "keywords": "referral delay",
+      "menuPath": "Referral Delays",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInDocumentation/SpecialistReview"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Delay in lab results / pharmacy / discharge",
+      "active": true,
+      "keywords": "opd wait, queue",
+      "menuPath": "Long Waiting Time",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInLabResults/Pharmacy/Discharge"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Delay in treatment / Failure to monitor",
+      "active": true,
+      "keywords": "misdiagnosis, error",
+      "menuPath": "Medical Negligence / Malpractice",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "DelayInTreatment/FailureToMonitor"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Denied admission",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "DeniedAdmission"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Dirty wards, toilets, or foul odor",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DirtyWards,Toilets,OrFoulOdor"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Dismissive / Ignoring patient concerns",
+      "active": true,
+      "keywords": "dismissive",
+      "menuPath": "Staff Attitude",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "Dismissive/IgnoringPatientConcerns"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Drug Stock-Outs",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "DrugStock-outs"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Expired drugs issued",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "ExpiredDrugsIssued"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Failure to isolate cases / Lack of testing kits",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "FailureToIsolateCases/LackOfTestingKits"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Gross misconduct / Abuse of authority",
+      "active": true,
+      "keywords": "misconduct",
+      "menuPath": "Human Resource Disciplinary Cases",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "GrossMisconduct/AbuseOfAuthority"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Incubator / Backup generator failure",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Incubator/BackupGeneratorFailure"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Informal payment / Double billing / Overcharging",
+      "active": true,
+      "keywords": "double bill, bribe",
+      "menuPath": "Illegal Charges / Corruption",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "InformalPayment/DoubleBilling/Overcharging"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Lab / X-ray / Dental equipment malfunction",
+      "active": true,
+      "keywords": "lab, xray",
+      "menuPath": "Equipment Non-Functional",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "Lab/X-ray/DentalEquipmentMalfunction"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Lack of running water",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "LackOfRunningWater"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Long queues at Registration / OPD / Triage",
+      "active": true,
+      "keywords": "opd wait, queue",
+      "menuPath": "Long Waiting Time",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "LongQueuesAtRegistration/Opd/Triage"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Misdiagnosis / Wrong medication / Surgical error",
+      "active": true,
+      "keywords": "misdiagnosis, error",
+      "menuPath": "Medical Negligence / Malpractice",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "Misdiagnosis/WrongMedication/SurgicalError"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Neonatal equipment unavailable / not working",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "NeonatalEquipmentUnavailable/NotWorking"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "No ambulance / Referral rejected by receiver",
+      "active": true,
+      "keywords": "referral delay",
+      "menuPath": "Referral Delays",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "NoAmbulance/ReferralRejectedByReceiver"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "No fumigation / Poor public communication",
+      "active": true,
+      "keywords": "outbreak delay",
+      "menuPath": "Disease Outbreak Response Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "NoFumigation/PoorPublicCommunication"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "No official receipt / Fraudulent billing collusion",
+      "active": true,
+      "keywords": "double bill, bribe",
+      "menuPath": "Illegal Charges / Corruption",
+      "slaHours": 1080,
+      "department": "DEPT_36",
+      "serviceCode": "NoOfficialReceipt/FraudulentBillingCollusion"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Overcrowded Maternity / Pediatric wards",
+      "active": true,
+      "keywords": "bed sharing, floor",
+      "menuPath": "Overcrowding in Wards",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "OvercrowdedMaternity/PediatricWards"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Partial service / Discharge delayed due to SHA",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "PartialService/DischargeDelayedDueToSha"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Pharmacy closed",
+      "active": true,
+      "keywords": "drug stockout",
+      "menuPath": "Pharmacy Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "PharmacyClosed"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Policy gaps / Budget deficiencies",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "PolicyGaps/BudgetDeficiencies"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Poor waste disposal / Pest infestation",
+      "active": true,
+      "keywords": "dirty, odor",
+      "menuPath": "Sanitation in Facilities",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "PoorWasteDisposal/PestInfestation"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Power / water outage affecting maternity",
+      "active": true,
+      "keywords": "labor delay, staff",
+      "menuPath": "Maternal & Neonatal Emergencies",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "Power/WaterOutageAffectingMaternity"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Repeated failure across facilities",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "RepeatedFailureAcrossFacilities"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Respiratory failure (Oxygen / Ventilator)",
+      "active": true,
+      "keywords": "oxygen, ventilator",
+      "menuPath": "Life-Threatening Equipment Failure",
+      "slaHours": 48,
+      "department": "DEPT_36",
+      "serviceCode": "RespiratoryFailure(oxygen/Ventilator)"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Rude conduct / Negligence / Refusal to serve",
+      "active": true,
+      "keywords": "absent, shortage",
+      "menuPath": "Health Workers",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "RudeConduct/Negligence/RefusalToServe"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Service postponed",
+      "active": true,
+      "keywords": "appointment delay",
+      "menuPath": "Service Scheduling Complaints",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "ServicePostponed"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "System-wide ICT / Procurement failures",
+      "active": true,
+      "keywords": "policy gap, budget",
+      "menuPath": "Policy & Systemic Service Failures",
+      "slaHours": 1800,
+      "department": "DEPT_36",
+      "serviceCode": "System-wideIct/ProcurementFailures"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Theft / Unauthorized access / Lack of security",
+      "active": true,
+      "keywords": "theft, security",
+      "menuPath": "Security & Patient Safety Issues",
+      "slaHours": 168,
+      "department": "DEPT_36",
+      "serviceCode": "Theft/UnauthorizedAccess/LackOfSecurity"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Treatment denied / System offline",
+      "active": true,
+      "keywords": "sha denied, offline",
+      "menuPath": "SHA Service Denial",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "TreatmentDenied/SystemOffline"
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "name": "Verbal abuse / Intimidation / Discriminatory",
+      "active": true,
+      "keywords": "dismissive",
+      "menuPath": "Staff Attitude",
+      "slaHours": 336,
+      "department": "DEPT_36",
+      "serviceCode": "VerbalAbuse/Intimidation/Discriminatory"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Illegal shops on footpath",
+      "active": true,
+      "keywords": "illegal, shop, footpath, violation, property, public, space, land, unathourised, site, construction, wrong",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalShopsOnFootPath"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Park requires maintenance",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "Parks",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "ParkRequiresMaintenance"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Request spraying/ fogging operations",
+      "active": true,
+      "keywords": "mosquito, menace, fog, spray, kill, health, dengue, malaria, disease, clean",
+      "menuPath": "Mosquitos",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "RequestSprayingOrFoggingOperation"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Manhole cover is missing/damaged",
+      "active": true,
+      "keywords": "road, street, manhole, hole, cover, lid, footpath, open, man, drainage, damage, repair, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ManholeCoverMissingOrDamaged"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "No water/electricity in public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, electricity, water, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NoWaterOrElectricityinPublicToilet"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Damaged/blocked footpath",
+      "active": true,
+      "keywords": "footpath, repair, broken, surface, damage, patch, hole, maintenance, walk, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedOrBlockedFootpath"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Others",
+      "order": 6,
+      "active": true,
+      "keywords": "other, miscellaneous,ad,playgrounds,burial,slaughterhouse, misc, tax, revenue",
+      "menuPath": "",
+      "slaHours": 336,
+      "department": "DEPT_10",
+      "serviceCode": "Others"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Stray animals",
+      "active": true,
+      "keywords": "stray, dog, dogs, menace, animal, animals, attack, attacking, bite, biting, bark, barking",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "StrayAnimals"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Public toilet damaged",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, block, working",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "PublicToiletIsDamaged"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Construction material lying on the road",
+      "active": true,
+      "keywords": "illegal, shop, footpath, walk, remove, occupy, path",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ConstructionMaterialLyingOntheRoad"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Shortage of water",
+      "active": true,
+      "keywords": "water, supply, shortage, drink, tap, connection,leakage,less",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "ShortageOfWater"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Open Defecation",
+      "active": true,
+      "keywords": "open, defecation, waste, human, privy, toilet",
+      "menuPath": "OpenDefecation",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "OpenDefecation"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Dirty/smelly public toilet",
+      "active": true,
+      "keywords": "toilet, public, restroom, bathroom, urinal, smell, dirty",
+      "menuPath": "PublicToilets",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DirtyOrSmellyPublicToilets"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Water logged road",
+      "active": true,
+      "keywords": "road, drainage, water, block, puddle, street, flood, overflow, rain",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterLoggedRoad"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Broken water pipe / Leakage",
+      "order": 3,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BrokenWaterPipeOrLeakage"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Illegal constructions",
+      "active": true,
+      "keywords": "illegal, violation, property, public, space, land, unathourised, site, construction, wrong, build",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalConstructions"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Dirty water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, dirty, contaminated, impure, health, clean",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DirtyWaterSupply"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Water pressure is very less",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "WaterPressureisVeryLess"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Illegal Cutting of trees",
+      "active": true,
+      "keywords": "tree, cut, illegal, unathourized, remove, plant",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "IllegalCuttingOfTrees"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Dead animals",
+      "active": true,
+      "keywords": "stray, cow, cows, cattle, bull, bulls, graze, grazing, dung, menace",
+      "menuPath": "Animals",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DeadAnimals"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Illegal parking",
+      "active": true,
+      "keywords": "illegal, parking, car, vehicle, space, removal, road, street, vehicle",
+      "menuPath": "LandViolations",
+      "slaHours": 336,
+      "department": "DEPT_6",
+      "serviceCode": "IllegalParking"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Damaged road",
+      "active": true,
+      "keywords": "road, damage, hole, surface, repair, patch, broken, maintenance, street, construction, fix",
+      "menuPath": "RoadsAndFootpaths",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "DamagedRoad"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Illegal discharge of sewage",
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "illegalDischargeOfSewage"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "No water supply",
+      "active": true,
+      "keywords": "water, supply, connection, drink, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "NoWaterSupply"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Block / Overflowing sewage",
+      "order": 2,
+      "active": true,
+      "keywords": "water, supply, connection, damage, repair, broken, pipe, piping, tap",
+      "menuPath": "WaterandSewage",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "BlockOrOverflowingSewage"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Cutting/trimming of tree required",
+      "active": true,
+      "keywords": "tree, remove, trim, fallen, cut, plant, branch",
+      "menuPath": "Trees",
+      "slaHours": 336,
+      "department": "DEPT_5",
+      "serviceCode": "CuttingOrTrimmingOfTreeRequired"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "name": "Overflowing/Blocked drain",
+      "active": true,
+      "keywords": "drain, block, clean, debris, silt, drainage, water, clean, roadside, flow, remove, waste, garbage, clear, overflow, canal, fill, stagnate, rain, sanitation, sand, pipe, clog, stuck",
+      "menuPath": "Drains",
+      "slaHours": 336,
+      "department": "DEPT_4",
+      "serviceCode": "OverflowingOrBlockedDrain"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "Burning of garbage",
+      "active": true,
+      "keywords": "garbage, remove, burn, fire, health, waste, smoke, plastic, illegal",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "BurningOfGarbage",
+      "menuPathName": "Garbage"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "Damaged garbage bin",
+      "active": true,
+      "keywords": "garbage, waste, bin, dustbin, clean, remove, sanitation, overflow, smell, health, throw, dispose",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "DamagedGarbageBin",
+      "menuPathName": "Garbage"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "Garbage needs to be cleared",
+      "order": 4,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "GarbageNeedsTobeCleared",
+      "menuPathName": "Garbage"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "Non sweeping of road",
+      "order": 5,
+      "active": true,
+      "keywords": "garbage, collect, litter, clean, door, waste, remove, sweeper, sanitation, dump, health, debris, throw",
+      "menuPath": "Garbage",
+      "slaHours": 336,
+      "department": "DEPT_3",
+      "serviceCode": "NonSweepingOfRoad",
+      "menuPathName": "Garbage"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "No streetlight",
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, damage, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "NoStreetlight",
+      "menuPathName": "Street Lights"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "name": "Streetlight not working",
+      "order": 1,
+      "active": true,
+      "keywords": "streetlight, light, repair, work, pole, electric, power, repair, fix",
+      "menuPath": "StreetLights",
+      "slaHours": 336,
+      "department": "DEPT_1",
+      "serviceCode": "StreetLightNotWorking",
+      "menuPathName": "Street Lights"
+    }
+  }
+]

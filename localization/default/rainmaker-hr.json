@@ -1,0 +1,6212 @@
+[
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_LOC_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Localization Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_LOC_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Localization Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_LOC_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Localization Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workbench MDMS Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workbench MDMS Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_MDMS_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workbench MDMS Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PGR_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PGR_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PGR_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PT_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Property Tax Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PT_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Property Tax Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_PT_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Property Tax Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_REINDEXING_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reindexing Role"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_REINDEXING_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reindexing Role"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_REINDEXING_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reindexing Role"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Field Inspector"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Field Inspector"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_SW_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SW Field Inspector"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_TICKET_REPORT_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reports Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_TICKET_REPORT_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reports Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_TICKET_REPORT_VIEWER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reports Viewer"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WORKFLOW_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workflow Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WORKFLOW_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workflow Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WORKFLOW_ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Workflow Admin"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_APPROVER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Approver"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CEMP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Counter Employee"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_CLERK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Clerk"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_DOC_VERIFIER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Doc Verifier"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Field Inspector"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Field Inspector"
+  },
+  {
+    "code": "ACCESSCONTROL_ROLES_ROLES_WS_FIELD_INSPECTOR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "WS Field Inspector"
+  },
+  {
+    "code": "ACTIVATE EMPLOYEE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "ACTIVATE EMPLOYEE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "ACTIVATE EMPLOYEE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Admin"
+  },
+  {
+    "code": "ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Admin"
+  },
+  {
+    "code": "ADMIN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Admin"
+  },
+  {
+    "code": "COMMON_GENDER_NONBINARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Non Binary"
+  },
+  {
+    "code": "COMMON_GENDER_NONBINARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Non Binary"
+  },
+  {
+    "code": "COMMON_GENDER_NONBINARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Non Binary"
+  },
+  {
+    "code": "COMMON_GENDER_PREFERNOTTODISCLOSE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Prefer not to disclose"
+  },
+  {
+    "code": "COMMON_GENDER_PREFERNOTTODISCLOSE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Prefer not to disclose"
+  },
+  {
+    "code": "COMMON_GENDER_PREFERNOTTODISCLOSE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Prefer not to disclose"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ACC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Accounts"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ACC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Accounts"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ACC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Accounts"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ADM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Administration"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ADM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Administration"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_ADM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Administration"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_NULM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "National Urban Livelihood Mission"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_NULM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "National Urban Livelihood Mission"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_NULM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "National Urban Livelihood Mission"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PHS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Health and Sanitation"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PHS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Health and Sanitation"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PHS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Health and Sanitation"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Relations"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Relations"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_PR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Public Relations"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_REV",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tax"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_REV",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tax"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_REV",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tax"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_TWP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Town Planning"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_TWP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Town Planning"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_TWP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Town Planning"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_WRK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Works"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_WRK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Works"
+  },
+  {
+    "code": "COMMON_MASTERS_DEPARTMENT_WRK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Works"
+  },
+  {
+    "code": "COMMON_RELATION_FATHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "FATHER"
+  },
+  {
+    "code": "COMMON_RELATION_FATHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "FATHER"
+  },
+  {
+    "code": "COMMON_RELATION_FATHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "FATHER"
+  },
+  {
+    "code": "COMMON_RELATION_HUSHBAND",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "HUSHBAND"
+  },
+  {
+    "code": "COMMON_RELATION_HUSHBAND",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "HUSHBAND"
+  },
+  {
+    "code": "COMMON_RELATION_HUSHBAND",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "HUSHBAND"
+  },
+  {
+    "code": "CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Contract"
+  },
+  {
+    "code": "CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Contract"
+  },
+  {
+    "code": "CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Contract"
+  },
+  {
+    "code": "CS_COMPLAINT_DETAILS_SUB_COMPLAINT_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Sub-Type"
+  },
+  {
+    "code": "CS_COMPLAINT_DETAILS_SUB_COMPLAINT_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Sub-Type"
+  },
+  {
+    "code": "CS_COMPLAINT_DETAILS_SUB_COMPLAINT_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Complaint Sub-Type"
+  },
+  {
+    "code": "CS_COMPLAINT_LOCALITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "CS_COMPLAINT_LOCALITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "CS_COMPLAINT_LOCALITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "CS_COMPLAINT_SELECT_CITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "City"
+  },
+  {
+    "code": "CS_COMPLAINT_SELECT_CITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "City"
+  },
+  {
+    "code": "CS_COMPLAINT_SELECT_CITY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "City"
+  },
+  {
+    "code": "DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Dailywages"
+  },
+  {
+    "code": "DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Dailywages"
+  },
+  {
+    "code": "DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Dailywages"
+  },
+  {
+    "code": "DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deputation"
+  },
+  {
+    "code": "DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deputation"
+  },
+  {
+    "code": "DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deputation"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_ORDERBYCOMMISSIONER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order by Commissioner"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_ORDERBYCOMMISSIONER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order by Commissioner"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_ORDERBYCOMMISSIONER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order by Commissioner"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_OTHERS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Others"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_OTHERS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Others"
+  },
+  {
+    "code": "EGOV_HRMS_DEACTIVATIONREASON_OTHERS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Others"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_10+2_EQUIVALENTDIPLOMA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "10+2/EQUIVALENTDIPLOMA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_10+2_EQUIVALENTDIPLOMA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "10+2/EQUIVALENTDIPLOMA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_10+2_EQUIVALENTDIPLOMA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "10+2/EQUIVALENTDIPLOMA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_A_B_SC__B_COM_BBA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.A/B.SC./B.COM/BBA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_A_B_SC__B_COM_BBA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.A/B.SC./B.COM/BBA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_A_B_SC__B_COM_BBA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.A/B.SC./B.COM/BBA"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_E_B_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.E/B.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_E_B_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.E/B.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_B_E_B_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "B.E/B.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_DOCTORATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOCTORATE"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_DOCTORATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOCTORATE"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_DOCTORATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOCTORATE"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_LLB_LLM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "LLB/LLM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_LLB_LLM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "LLB/LLM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_LLB_LLM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "LLB/LLM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_A_M_COM__M_SC_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.A/M.COM./M.SC."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_A_M_COM__M_SC_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.A/M.COM./M.SC."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_A_M_COM__M_SC_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.A/M.COM./M.SC."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MATRICULATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MATRICULATION"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MATRICULATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MATRICULATION"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MATRICULATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MATRICULATION"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MBA_PGDM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MBA/PGDM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MBA_PGDM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MBA/PGDM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_MBA_PGDM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MBA/PGDM"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_E_M_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.E/M.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_E_M_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.E/M.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_M_E_M_TECH_",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "M.E/M.TECH."
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_OTHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "OTHER"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_OTHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "OTHER"
+  },
+  {
+    "code": "EGOV_HRMS_DEGREE_OTHER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "OTHER"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_DECEASED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DECEASED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_DECEASED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DECEASED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_DECEASED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DECEASED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_EMPLOYED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EMPLOYED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_EMPLOYED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EMPLOYED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_EMPLOYED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EMPLOYED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RESIGNED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RESIGNED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RESIGNED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RESIGNED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RESIGNED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RESIGNED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RETIRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RETIRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RETIRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RETIRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_RETIRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "RETIRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_SUSPENDED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUSPENDED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_SUSPENDED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUSPENDED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_SUSPENDED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUSPENDED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TERMINATED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TERMINATED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TERMINATED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TERMINATED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TERMINATED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TERMINATED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TRANSFERRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TRANSFERRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TRANSFERRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TRANSFERRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEESTATUS_TRANSFERRED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TRANSFERRED"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "CONTRACT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "CONTRACT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_CONTRACT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "CONTRACT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DAILYWAGES"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DAILYWAGES"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DAILYWAGES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DAILYWAGES"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEPUTATION"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEPUTATION"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_DEPUTATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEPUTATION"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PERMANENT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PERMANENT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PERMANENT"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TEMPORARY"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TEMPORARY"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYEETYPE_TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "TEMPORARY"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_APTITUDETEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "APTITUDE TEST"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_APTITUDETEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "APTITUDE TEST"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_APTITUDETEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "APTITUDE TEST"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_MAINS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MAINS"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_MAINS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MAINS"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_MAINS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "MAINS"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_PRELIMS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PRELIMS"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_PRELIMS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PRELIMS"
+  },
+  {
+    "code": "EGOV_HRMS_EMPLOYMENTTEST_PRELIMS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "PRELIMS"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_ARTS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Arts"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_ARTS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Arts"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_ARTS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Arts"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_SCIENCE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Science"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_SCIENCE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Science"
+  },
+  {
+    "code": "EGOV_HRMS_SPECALIZATION_SCIENCE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Science"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_ACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_ACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_ACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Creation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Creation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Creation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_CREATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_DEACTIVATION_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivation Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Updated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Updated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Updated Successfully"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Update Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Update Failed"
+  },
+  {
+    "code": "EMPLOYEE_RESPONSE_UPDATE_ACTION_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details Update Failed"
+  },
+  {
+    "code": "ERR_ALL_MANDATORY_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter data in all mandatory fields"
+  },
+  {
+    "code": "ERR_ALL_MANDATORY_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter data in all mandatory fields"
+  },
+  {
+    "code": "ERR_ALL_MANDATORY_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter data in all mandatory fields"
+  },
+  {
+    "code": "ERR_BASE_TENANT_MANDATORY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Atleast one Jurisdiction should be selected in Parent city"
+  },
+  {
+    "code": "ERR_BASE_TENANT_MANDATORY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Atleast one Jurisdiction should be selected in Parent city"
+  },
+  {
+    "code": "ERR_BASE_TENANT_MANDATORY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Atleast one Jurisdiction should be selected in Parent city"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_EMPCODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate employee code"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_EMPCODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate employee code"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_EMPCODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate employee code"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_MOBILE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate mobile number"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_MOBILE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate mobile number"
+  },
+  {
+    "code": "ERR_HRMS_BULK_CREATE_DUPLICATE_MOBILE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Bulk request has duplicate mobile number"
+  },
+  {
+    "code": "ERR_HRMS_GENERATE_ID_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Unable to create ids"
+  },
+  {
+    "code": "ERR_HRMS_GENERATE_ID_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Unable to create ids"
+  },
+  {
+    "code": "ERR_HRMS_GENERATE_ID_ERROR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Unable to create ids"
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date field should be blank for current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date field should be blank for current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date field should be blank for current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of appointment."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of appointment."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_DATES_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee period of assignment (From Date or To date) can not be before date of appointment."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To date field should not be blank for non current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To date field should not be blank for non current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To date field should not be blank for non current assignment of the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid period of assignment (From date - To date)."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid period of assignment (From date - To date)."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ASSIGNMENT_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid period of assignment (From date - To date)."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_BOUNDARY_TYPE_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary type value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_BOUNDARY_TYPE_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary type value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_BOUNDARY_TYPE_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary type value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_CURRENT_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be exactly one current assignment for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_CURRENT_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be exactly one current assignment for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_CURRENT_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be exactly one current assignment for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee date of appointment entered by the user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee date of appointment entered by the user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee date of appointment entered by the user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee date of appointment can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee date of appointment can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DATE_OF_APPOINTMENT_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee date of appointment can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation reason is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation reason is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation reason is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REQUEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee active flag should be set as false during deactivation."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REQUEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee active flag should be set as false during deactivation."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEACT_REQUEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee active flag should be set as false during deactivation."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test passing year of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test passing year of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPARTMENTAL_TEST_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Departmental evaluation test passing year of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid department of employee entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid department of employee entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid department of employee entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid designation of employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid designation of employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid designation of employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid date of birth entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid date of birth entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_DOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid date of birth entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education year of passing of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education year of passing of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_PASSING_YEAR",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education year of passing of the employee can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_STREAM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education stream of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_STREAM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education stream of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EDUCATIONAL_STREAM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education stream of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_STATUS_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employment status entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_STATUS_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employment status entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_STATUS_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employment status entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee type entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee type entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_EMP_TYPE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid employee type entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_ACTIIEV_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction should have atleast 1 active data"
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_ACTIIEV_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction should have atleast 1 active data"
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_ACTIIEV_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction should have atleast 1 active data"
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_BOUNDARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_BOUNDARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_BOUNDARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction boundary value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction hierarchy value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction hierarchy value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_JURISDICTION_HEIRARCHY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisiction hierarchy value is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_MOB_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_MOB_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_MOB_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_QUALIFICATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Qualification of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_QUALIFICATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Qualification of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_QUALIFICATION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Qualification of the employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid role assigned to the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid role assigned to the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid role assigned to the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_AOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Along with as on date, atleast one department and designation need to be passed as search criteria."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_AOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Along with as on date, atleast one department and designation need to be passed as search criteria."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_AOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Along with as on date, atleast one department and designation need to be passed as search criteria."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_REQ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Open search is disabled for this user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_REQ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Open search is disabled for this user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_REQ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Open search is disabled for this user."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on roles, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on roles, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on roles, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_USER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on phone number and name, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_USER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on phone number and name, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SEARCH_USER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "For search based on phone number and name, passing of tenant id is mandatory."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be maximum one currently working service for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be maximum one currently working service for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should be maximum one currently working service for the employee."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should be blank for currently working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should be blank for currently working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should be blank for currently working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee service period (From date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee service period (From date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_DATES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee service period (From date or To date) can not be before date of birth."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should not be blank for currently non working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should not be blank for currently non working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_NOT_CURRENT_TO_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "To Date of service period should not be blank for currently non working employees."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service period (From date or To date) of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service period (From date or To date) of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_PERIOD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service period (From date or To date) of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service stataus of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service stataus of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_INVALID_SERVICE_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service stataus of employee is invalid."
+  },
+  {
+    "code": "ERR_HRMS_MISSING_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_MISSING_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_MISSING_ROLES",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid mobile number entered."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should not be overlapping period of assignments for the employee."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should not be overlapping period of assignments for the employee."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "There should not be overlapping period of assignments for the employee."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of assignements of employee should not be after current assignment."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of assignements of employee should not be after current assignment."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_ASSGN_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of assignements of employee should not be after current assignment."
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_SERVICEHISTORY_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of service details of employee should not be after current assignment!"
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_SERVICEHISTORY_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of service details of employee should not be after current assignment!"
+  },
+  {
+    "code": "ERR_HRMS_OVERLAPPING_SERVICEHISTORY_CURRENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Period of service details of employee should not be after current assignment!"
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_ASSIGNEMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_ASSIGNEMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_ASSIGNEMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCORRECT_EFFECTIVEFROM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation effective date should not be future date."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCORRECT_EFFECTIVEFROM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation effective date should not be future date."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCORRECT_EFFECTIVEFROM",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation effective date should not be future date."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DEACT_DETAILS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee deactivation data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DOCUMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee document data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DOCUMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee document data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_DOCUMENT_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee document data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EDUCATION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EDUCATION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EDUCATION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_CODE_CHANGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee code can not be changed in an update request."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_CODE_CHANGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee code can not be changed in an update request."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_CODE_CHANGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee code can not be changed in an update request."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_NOT_EXIST_CODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No employee found for given UUID."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_NOT_EXIST_CODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No employee found for given UUID."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EMPLOYEE_NOT_EXIST_CODE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No employee found for given UUID."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EXISTING_MOBNO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User exist for given mobile no"
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EXISTING_MOBNO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User exist for given mobile no"
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_EXISTING_MOBNO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User exist for given mobile no"
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_JURISDICTION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_JURISDICTION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_JURISDICTION_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Code in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Code in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Code in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_UUID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee UUID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_UUID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee UUID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_NULL_UUID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee UUID in an update request should not be null."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_SERVICE_HISTORY_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service history data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_SERVICE_HISTORY_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service history data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_SERVICE_HISTORY_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service history data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_TESTS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee evaluation test data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_TESTS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee evaluation test data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_UPDATE_TESTS_INCOSISTENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee evaluation test data in an update request should contain all previously entered data."
+  },
+  {
+    "code": "ERR_HRMS_USER_CREATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User creation failed at the user service."
+  },
+  {
+    "code": "ERR_HRMS_USER_CREATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User creation failed at the user service."
+  },
+  {
+    "code": "ERR_HRMS_USER_CREATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User creation failed at the user service."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_MOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered mobile number. Use a different mobile number to proceed."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_MOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered mobile number. Use a different mobile number to proceed."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_MOB",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered mobile number. Use a different mobile number to proceed."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_USERNAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered user name."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_USERNAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered user name."
+  },
+  {
+    "code": "ERR_HRMS_USER_EXIST_USERNAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User already exists for the entered user name."
+  },
+  {
+    "code": "ERR_HRMS_USER_UPDATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User updation failed at the user service."
+  },
+  {
+    "code": "ERR_HRMS_USER_UPDATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User updation failed at the user service."
+  },
+  {
+    "code": "ERR_HRMS_USER_UPDATION_FAILED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "User updation failed at the user service."
+  },
+  {
+    "code": "ERR_MOBILE_NUMBER_EXISTS_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile number already in use. Enter another mobile number"
+  },
+  {
+    "code": "ERR_MOBILE_NUMBER_EXISTS_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile number already in use. Enter another mobile number"
+  },
+  {
+    "code": "ERR_MOBILE_NUMBER_EXISTS_FIELDS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile number already in use. Enter another mobile number"
+  },
+  {
+    "code": "ES_COMMON_SEARCH_BY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SEARCH BY:"
+  },
+  {
+    "code": "ES_COMMON_SEARCH_BY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SEARCH BY:"
+  },
+  {
+    "code": "ES_COMMON_SEARCH_BY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SEARCH BY:"
+  },
+  {
+    "code": "ES_SEARCH_APPLICATION_MOBILE_INVALID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please provide a valid mobile number"
+  },
+  {
+    "code": "ES_SEARCH_APPLICATION_MOBILE_INVALID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please provide a valid mobile number"
+  },
+  {
+    "code": "ES_SEARCH_APPLICATION_MOBILE_INVALID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please provide a valid mobile number"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HE_NEW_EMPLOYEE_CITY_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "New Employee Locality"
+  },
+  {
+    "code": "HR_ACTION_NO_FILEUPLOADED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No File Selected"
+  },
+  {
+    "code": "HR_ACTION_NO_FILEUPLOADED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No File Selected"
+  },
+  {
+    "code": "HR_ACTION_NO_FILEUPLOADED",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No File Selected"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Activate Employee"
+  },
+  {
+    "code": "HR_ACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Active"
+  },
+  {
+    "code": "HR_ACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Active"
+  },
+  {
+    "code": "HR_ACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Active"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Re-activation"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Re-activation"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Re-activation"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Re-activation"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Re-activation"
+  },
+  {
+    "code": "HR_ACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Re-activation"
+  },
+  {
+    "code": "HR_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "HR_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "HR_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "HR_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "HR_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "HR_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "HR_ADD_NEW_EMPLOYEE_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Add Employee"
+  },
+  {
+    "code": "HR_ADD_NEW_EMPLOYEE_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Add Employee"
+  },
+  {
+    "code": "HR_ADD_NEW_EMPLOYEE_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Add Employee"
+  },
+  {
+    "code": "HR_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "HR_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "HR_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "HR_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "HR_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "HR_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "HR_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "HR_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "HR_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "HR_APPOINTMENT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPOINTMENT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPOINTMENT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPROVAL_UPLOAD_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Supporting Documents"
+  },
+  {
+    "code": "HR_APPROVAL_UPLOAD_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Supporting Documents"
+  },
+  {
+    "code": "HR_APPROVAL_UPLOAD_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Supporting Documents"
+  },
+  {
+    "code": "HR_APPT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPT_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Appointment"
+  },
+  {
+    "code": "HR_APPT_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Date of Appointment"
+  },
+  {
+    "code": "HR_APPT_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Date of Appointment"
+  },
+  {
+    "code": "HR_APPT_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Date of Appointment"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_FROM_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned From Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_LABEL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASMT_TO_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assigned To Date"
+  },
+  {
+    "code": "HR_ASSIGN_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment Details"
+  },
+  {
+    "code": "HR_ASSIGN_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment Details"
+  },
+  {
+    "code": "HR_ASSIGN_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment Details"
+  },
+  {
+    "code": "HR_ASSIGN_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Assignment details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_ASSIGN_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Assignment details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_ASSIGN_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Assignment details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment"
+  },
+  {
+    "code": "HR_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment"
+  },
+  {
+    "code": "HR_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Assignment"
+  },
+  {
+    "code": "HR_BIRTH_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BIRTH_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BIRTH_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BIRTH_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BIRTH_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BIRTH_DATE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Date of Birth"
+  },
+  {
+    "code": "HR_BOUNDARY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary Type"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary Type"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Boundary Type"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary Type"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary Type"
+  },
+  {
+    "code": "HR_BOUNDARY_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Boundary Type"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_CITY_SELECT_LABEL ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select"
+  },
+  {
+    "code": "HR_COMMON_APPL_NEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee"
+  },
+  {
+    "code": "HR_COMMON_APPL_NEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee"
+  },
+  {
+    "code": "HR_COMMON_APPL_NEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee"
+  },
+  {
+    "code": "HR_COMMON_APPLY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_APPLY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_APPLY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Home"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Home"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Home"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_NXT_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Next Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_NXT_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Next Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_NXT_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Next Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_PREV_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Previous Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_PREV_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Previous Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_PREV_STEP",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Previous Step"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_SUBMIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Submit"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_SUBMIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Submit"
+  },
+  {
+    "code": "HR_COMMON_BUTTON_SUBMIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Submit"
+  },
+  {
+    "code": "HR_COMMON_CLEAR_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Clear Search"
+  },
+  {
+    "code": "HR_COMMON_CLEAR_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Clear Search"
+  },
+  {
+    "code": "HR_COMMON_CLEAR_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Clear Search"
+  },
+  {
+    "code": "HR_COMMON_CREATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create Employee"
+  },
+  {
+    "code": "HR_COMMON_CREATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create Employee"
+  },
+  {
+    "code": "HR_COMMON_CREATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create Employee"
+  },
+  {
+    "code": "HR_COMMON_DEACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_DEACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_DEACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_EDIT_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit Employee"
+  },
+  {
+    "code": "HR_COMMON_EDIT_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit Employee"
+  },
+  {
+    "code": "HR_COMMON_EDIT_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit Employee"
+  },
+  {
+    "code": "HR_COMMON_FILTER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Filter By"
+  },
+  {
+    "code": "HR_COMMON_FILTER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Filter By"
+  },
+  {
+    "code": "HR_COMMON_FILTER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Filter By"
+  },
+  {
+    "code": "HR_COMMON_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Management"
+  },
+  {
+    "code": "HR_COMMON_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Management"
+  },
+  {
+    "code": "HR_COMMON_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Management"
+  },
+  {
+    "code": "HR_COMMON_REACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_REACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_REACTIVATED_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reactivate Employee"
+  },
+  {
+    "code": "HR_COMMON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Apply"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DEPT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_DESG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_EMP_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_EMP_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_EMP_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_NAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Name"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_NAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Name"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_NAME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Name"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_ROLE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_STATUS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_TENANT_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tenant"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_TENANT_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tenant"
+  },
+  {
+    "code": "HR_COMMON_TABLE_COL_TENANT_ID",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Tenant"
+  },
+  {
+    "code": "HR_COMMON_TAKE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Take Action"
+  },
+  {
+    "code": "HR_COMMON_TAKE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Take Action"
+  },
+  {
+    "code": "HR_COMMON_TAKE_ACTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Take Action"
+  },
+  {
+    "code": "HR_COMMON_UPDATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Update"
+  },
+  {
+    "code": "HR_COMMON_UPDATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Update"
+  },
+  {
+    "code": "HR_COMMON_UPDATE_EMPLOYEE_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Update"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Correspondence Address"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Correspondence Address"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Correspondence Address"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Corrospondence Address"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Corrospondence Address"
+  },
+  {
+    "code": "HR_CORRESPONDENCE_ADDRESS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Corrospondence Address"
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "A notification has been sent to the created Employee at registered Mobile No."
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "A notification has been sent to the created Employee at registered Mobile No."
+  },
+  {
+    "code": "HR_CREATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "A notification has been sent to the created Employee at registered Mobile No."
+  },
+  {
+    "code": "HR_CURR_ASSIGN_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURR_ASSIGN_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURR_ASSIGN_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURRENTLY_ASSIGNED_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURRENTLY_ASSIGNED_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURRENTLY_ASSIGNED_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Assigned Here"
+  },
+  {
+    "code": "HR_CURRENTLY_WORKING_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_CURRENTLY_WORKING_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_CURRENTLY_WORKING_HERE_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_CURR_WORKING_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_CURR_WORKING_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_CURR_WORKING_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Currently Working Here"
+  },
+  {
+    "code": "HR_DEACTIVATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE"
+  },
+  {
+    "code": "HR_DEACTIVATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE"
+  },
+  {
+    "code": "HR_DEACTIVATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_BUTTON_TEXT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_BUTTON_TEXT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_BUTTON_TEXT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Deactivate Employee"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE EMPLOYEE"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE EMPLOYEE"
+  },
+  {
+    "code": "HR_DEACTIVATE_EMPLOYEE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DEACTIVATE EMPLOYEE"
+  },
+  {
+    "code": "HR_DEACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Inactive"
+  },
+  {
+    "code": "HR_DEACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Inactive"
+  },
+  {
+    "code": "HR_DEACTIVATE_HEAD",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Inactive"
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Deactivated Successfully"
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_DEACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEACTIVATION_REASON_SELECT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Reason for Deactivation"
+  },
+  {
+    "code": "HR_DEGREE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Degree"
+  },
+  {
+    "code": "HR_DEGREE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Degree"
+  },
+  {
+    "code": "HR_DEGREE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Degree"
+  },
+  {
+    "code": "HR_DEGREE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Degree"
+  },
+  {
+    "code": "HR_DEGREE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Degree"
+  },
+  {
+    "code": "HR_DEGREE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Degree"
+  },
+  {
+    "code": "HR_DEPARTMENT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPARTMENT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPARTMENT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_DEPT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_DEPT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department"
+  },
+  {
+    "code": "HR_DEPT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPT_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Department"
+  },
+  {
+    "code": "HR_DEPT_TEST_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department Test Details"
+  },
+  {
+    "code": "HR_DEPT_TEST_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department Test Details"
+  },
+  {
+    "code": "HR_DEPT_TEST_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Department Test Details"
+  },
+  {
+    "code": "HR_DESG_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_DESG_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_DESG_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Designation"
+  },
+  {
+    "code": "HR_DESIGNATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DESIGNATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DESIGNATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DESIG_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DESIG_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DESIG_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Designation"
+  },
+  {
+    "code": "HR_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Adminstrative Details"
+  },
+  {
+    "code": "HR_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Adminstrative Details"
+  },
+  {
+    "code": "HR_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Adminstrative Details"
+  },
+  {
+    "code": "HR_DOB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOB"
+  },
+  {
+    "code": "HR_DOB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOB"
+  },
+  {
+    "code": "HR_DOB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "DOB"
+  },
+  {
+    "code": "HR_EDIT_DETAILS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EDIT DETAILS"
+  },
+  {
+    "code": "HR_EDIT_DETAILS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EDIT DETAILS"
+  },
+  {
+    "code": "HR_EDIT_DETAILS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "EDIT DETAILS"
+  },
+  {
+    "code": "HR_ED_QUAL_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Qualification"
+  },
+  {
+    "code": "HR_ED_QUAL_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Qualification"
+  },
+  {
+    "code": "HR_ED_QUAL_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Qualification"
+  },
+  {
+    "code": "HR_EFFECTIVE_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Effective Date"
+  },
+  {
+    "code": "HR_EFFECTIVE_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Effective Date"
+  },
+  {
+    "code": "HR_EFFECTIVE_DATE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Effective Date"
+  },
+  {
+    "code": "HR_EMAIL_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Email"
+  },
+  {
+    "code": "HR_EMAIL_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Email"
+  },
+  {
+    "code": "HR_EMAIL_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Email"
+  },
+  {
+    "code": "HR_EMAIL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Email"
+  },
+  {
+    "code": "HR_EMAIL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Email"
+  },
+  {
+    "code": "HR_EMAIL_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Email"
+  },
+  {
+    "code": "HR_EMP_ID_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ID assigned to employee by the municipality. Incase there is no ID assigned, leave the column blank for the system to generate the Employee ID."
+  },
+  {
+    "code": "HR_EMP_ID_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ID assigned to employee by the municipality. Incase there is no ID assigned, leave the column blank for the system to generate the Employee ID."
+  },
+  {
+    "code": "HR_EMP_ID_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ID assigned to employee by the municipality. Incase there is no ID assigned, leave the column blank for the system to generate the Employee ID."
+  },
+  {
+    "code": "HR_EMP_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMP_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYEE_ID_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee ID"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employement Type"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employement Type"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employement Type"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employment Type"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employment Type"
+  },
+  {
+    "code": "HR_EMPLOYMENT_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employment Type"
+  },
+  {
+    "code": "HR_EMP_MOBILE_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Mobile Number"
+  },
+  {
+    "code": "HR_EMP_MOBILE_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Mobile Number"
+  },
+  {
+    "code": "HR_EMP_MOBILE_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Mobile Number"
+  },
+  {
+    "code": "HR_EMP_MOBILE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_MOBILE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_MOBILE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_MOBILE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_MOBILE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_MOBILE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Mobile No."
+  },
+  {
+    "code": "HR_EMP_NAME_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Name"
+  },
+  {
+    "code": "HR_EMP_NAME_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Name"
+  },
+  {
+    "code": "HR_EMP_NAME_ERR_MSG",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Invalid Name"
+  },
+  {
+    "code": "HR_EMP_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_EMP_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_EMP_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_EMP_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employment Status"
+  },
+  {
+    "code": "HR_EMP_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employment Status"
+  },
+  {
+    "code": "HR_EMP_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employment Status"
+  },
+  {
+    "code": "HR_EMP_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Type"
+  },
+  {
+    "code": "HR_EMP_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Type"
+  },
+  {
+    "code": "HR_EMP_TYPE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Type"
+  },
+  {
+    "code": "HR_EMP_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employee Type"
+  },
+  {
+    "code": "HR_EMP_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employee Type"
+  },
+  {
+    "code": "HR_EMP_TYPE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Employee Type"
+  },
+  {
+    "code": "HR_ENTER_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No."
+  },
+  {
+    "code": "HR_ENTER_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No."
+  },
+  {
+    "code": "HR_ENTER_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No."
+  },
+  {
+    "code": "HR_ENTER_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_ENTER_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_ENTER_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBAND_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBANDS_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBANDS_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_FATHER_HUSBANDS_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Father/Husband's Name"
+  },
+  {
+    "code": "HR_GENDER_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Gender"
+  },
+  {
+    "code": "HR_GENDER_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Gender"
+  },
+  {
+    "code": "HR_GENDER_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Gender"
+  },
+  {
+    "code": "HR_GENDER_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Gender"
+  },
+  {
+    "code": "HR_GENDER_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Gender"
+  },
+  {
+    "code": "HR_GENDER_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Gender"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Guardian Name"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Guardian Name"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Guardian Name"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Guardian Name"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Guardian Name"
+  },
+  {
+    "code": "HR_GUARDIAN_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Guardian Name"
+  },
+  {
+    "code": "HR_HIERARCHY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Hierarchy"
+  },
+  {
+    "code": "HR_HIERARCHY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Hierarchy"
+  },
+  {
+    "code": "HR_HIERARCHY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Hierarchy"
+  },
+  {
+    "code": "HR_HIERARCHY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Hierarchy"
+  },
+  {
+    "code": "HR_HIERARCHY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Hierarchy"
+  },
+  {
+    "code": "HR_HIERARCHY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Hierarchy"
+  },
+  {
+    "code": "HR_HOD_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head of Department"
+  },
+  {
+    "code": "HR_HOD_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head of Department"
+  },
+  {
+    "code": "HR_HOD_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head of Department"
+  },
+  {
+    "code": "HR_HOD_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head Of Department"
+  },
+  {
+    "code": "HR_HOD_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head Of Department"
+  },
+  {
+    "code": "HR_HOD_SWITCH_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Head Of Department"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_DESC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Provide at least one parameter to search for an employee"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_DESC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Provide at least one parameter to search for an employee"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_DESC",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Provide at least one parameter to search for an employee"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Employe"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Employe"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Employe"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_TABLE_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Results for Employee"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_TABLE_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Results for Employee"
+  },
+  {
+    "code": "HR_HOME_SEARCH_RESULTS_TABLE_HEADING",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search Results for Employee"
+  },
+  {
+    "code": "HR_JURIS_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_JURIS_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_JURIS_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction"
+  },
+  {
+    "code": "HR_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction"
+  },
+  {
+    "code": "HR_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction"
+  },
+  {
+    "code": "HR_JURISDICTION_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_JURISDICTION_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_JURISDICTION_DETAILS_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Jurisdiction Details"
+  },
+  {
+    "code": "HR_LOCATION_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Location"
+  },
+  {
+    "code": "HR_LOCATION_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Location"
+  },
+  {
+    "code": "HR_LOCATION_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Location"
+  },
+  {
+    "code": "HR_LOCATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Location"
+  },
+  {
+    "code": "HR_LOCATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Location"
+  },
+  {
+    "code": "HR_LOCATION_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Location"
+  },
+  {
+    "code": "HR_MOBILE_NO_CHECK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please enter a 10 digit number starting with 6/7/8/9"
+  },
+  {
+    "code": "HR_MOBILE_NO_CHECK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please enter a 10 digit number starting with 6/7/8/9"
+  },
+  {
+    "code": "HR_MOBILE_NO_CHECK",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Please enter a 10 digit number starting with 6/7/8/9"
+  },
+  {
+    "code": "HR_MOB_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile Number"
+  },
+  {
+    "code": "HR_MOB_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile Number"
+  },
+  {
+    "code": "HR_MOB_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Mobile Number"
+  },
+  {
+    "code": "HR_MOB_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Mobile No."
+  },
+  {
+    "code": "HR_MOB_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Mobile No."
+  },
+  {
+    "code": "HR_MOB_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Mobile No."
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_INFO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "The login credentials have been shared with the employee via SMS on the registered mobile number."
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_INFO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "The login credentials have been shared with the employee via SMS on the registered mobile number."
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_INFO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "The login credentials have been shared with the employee via SMS on the registered mobile number."
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HRMS_CREATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Created Successfully"
+  },
+  {
+    "code": "HRMS_SEARCH_RESET_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reset"
+  },
+  {
+    "code": "HRMS_SEARCH_RESET_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reset"
+  },
+  {
+    "code": "HRMS_SEARCH_RESET_BUTTON",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reset"
+  },
+  {
+    "code": "HRMS_UPDATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUCCESS"
+  },
+  {
+    "code": "HRMS_UPDATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUCCESS"
+  },
+  {
+    "code": "HRMS_UPDATE_EMPLOYEE_RESPONSE_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUCCESS"
+  },
+  {
+    "code": "HR_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "HR_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_NEW_EMPLOYEE_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_NEW_EMPLOYEE_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_NEW_EMPLOYEE_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_NEW_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_NEW_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_NEW_EMP_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Employee Name"
+  },
+  {
+    "code": "HR_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No."
+  },
+  {
+    "code": "HR_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No."
+  },
+  {
+    "code": "HR_ORDER_NO",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No."
+  },
+  {
+    "code": "HR_ORDER_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No"
+  },
+  {
+    "code": "HR_ORDER_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No"
+  },
+  {
+    "code": "HR_ORDER_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Order No"
+  },
+  {
+    "code": "HR_ORDER_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No"
+  },
+  {
+    "code": "HR_ORDER_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No"
+  },
+  {
+    "code": "HR_ORDER_NO_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Order No"
+  },
+  {
+    "code": "HR_OTHER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Other Details"
+  },
+  {
+    "code": "HR_OTHER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Other Details"
+  },
+  {
+    "code": "HR_OTHER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Other Details"
+  },
+  {
+    "code": "HR_PERSONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_PERSONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_PERSONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_PICK_YOUR_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Pick Your City"
+  },
+  {
+    "code": "HR_PICK_YOUR_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Pick Your City"
+  },
+  {
+    "code": "HR_PICK_YOUR_CITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Pick Your City"
+  },
+  {
+    "code": "HR_PROFESSIONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_PROFESSIONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_PROFESSIONAL_DETAILS_FORM_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Details"
+  },
+  {
+    "code": "HR_RACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "HR_RACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "HR_RACTIVATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Reactivated Successfully"
+  },
+  {
+    "code": "HR_REACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_REACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_REACTIVATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_RELATIONSHIP_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Relationship"
+  },
+  {
+    "code": "HR_RELATIONSHIP_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Relationship"
+  },
+  {
+    "code": "HR_RELATIONSHIP_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Relationship"
+  },
+  {
+    "code": "HR_RELATIONSHIP_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Relationship"
+  },
+  {
+    "code": "HR_RELATIONSHIP_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Relationship"
+  },
+  {
+    "code": "HR_RELATIONSHIP_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Relationship"
+  },
+  {
+    "code": "HR_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Remarks"
+  },
+  {
+    "code": "HR_REMARKS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_REMARKS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_REMARKS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Enter Remarks"
+  },
+  {
+    "code": "HR_REP_TO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reporting To"
+  },
+  {
+    "code": "HR_REP_TO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reporting To"
+  },
+  {
+    "code": "HR_REP_TO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Reporting To"
+  },
+  {
+    "code": "HR_ROLE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_ROLE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_ROLE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Role"
+  },
+  {
+    "code": "HR_ROLE_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No of Roles"
+  },
+  {
+    "code": "HR_ROLE_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No of Roles"
+  },
+  {
+    "code": "HR_ROLE_NO_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "No of Roles"
+  },
+  {
+    "code": "HR_ROLE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Role"
+  },
+  {
+    "code": "HR_ROLE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Role"
+  },
+  {
+    "code": "HR_ROLE_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Role"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_CITY_PLACEHOLDER ",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_ULB_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_ULB_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SELECT_ULB_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Locality"
+  },
+  {
+    "code": "HR_SER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service Details"
+  },
+  {
+    "code": "HR_SER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service Details"
+  },
+  {
+    "code": "HR_SER_DET_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service Details"
+  },
+  {
+    "code": "HR_SER_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Service details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_SER_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Service details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_SER_DET_SUB_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Verify entered details before submission. Service details cannot be edited once submitted."
+  },
+  {
+    "code": "HR_SER_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service From Date"
+  },
+  {
+    "code": "HR_SER_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service From Date"
+  },
+  {
+    "code": "HR_SER_FROM_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service From Date"
+  },
+  {
+    "code": "HR_SER_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service To Date"
+  },
+  {
+    "code": "HR_SER_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service To Date"
+  },
+  {
+    "code": "HR_SER_TO_DATE_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Service To Date"
+  },
+  {
+    "code": "HR_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_STATUS_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Status"
+  },
+  {
+    "code": "HR_STATUS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Status"
+  },
+  {
+    "code": "HR_STATUS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Status"
+  },
+  {
+    "code": "HR_STATUS_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Status"
+  },
+  {
+    "code": "HR_STREAM_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Stream"
+  },
+  {
+    "code": "HR_STREAM_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Stream"
+  },
+  {
+    "code": "HR_STREAM_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Stream"
+  },
+  {
+    "code": "HR_STREAM_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Stream"
+  },
+  {
+    "code": "HR_STREAM_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Stream"
+  },
+  {
+    "code": "HR_STREAM_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Stream"
+  },
+  {
+    "code": "HR_SUBMIT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUBMIT"
+  },
+  {
+    "code": "HR_SUBMIT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUBMIT"
+  },
+  {
+    "code": "HR_SUBMIT_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "SUBMIT"
+  },
+  {
+    "code": "HR_SUMMARY_DEPT_TEST_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Details"
+  },
+  {
+    "code": "HR_SUMMARY_DEPT_TEST_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Details"
+  },
+  {
+    "code": "HR_SUMMARY_DEPT_TEST_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Details"
+  },
+  {
+    "code": "HR_SUMMARY_DETAILS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Summary"
+  },
+  {
+    "code": "HR_SUMMARY_DETAILS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Summary"
+  },
+  {
+    "code": "HR_SUMMARY_DETAILS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Summary"
+  },
+  {
+    "code": "HR_SUMMARY_EDIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit"
+  },
+  {
+    "code": "HR_SUMMARY_EDIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit"
+  },
+  {
+    "code": "HR_SUMMARY_EDIT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Edit"
+  },
+  {
+    "code": "HR_SUMMARY_EDUCATION_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Details"
+  },
+  {
+    "code": "HR_SUMMARY_EDUCATION_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Details"
+  },
+  {
+    "code": "HR_SUMMARY_EDUCATION_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Education Details"
+  },
+  {
+    "code": "HR_SUMMARY_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee - Summary"
+  },
+  {
+    "code": "HR_SUMMARY_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee - Summary"
+  },
+  {
+    "code": "HR_SUMMARY_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Create New Employee - Summary"
+  },
+  {
+    "code": "HR_SUMMARY_PERSONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_SUMMARY_PERSONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_SUMMARY_PERSONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Personal Details"
+  },
+  {
+    "code": "HR_SUMMARY_PROFESSIONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Professional Details"
+  },
+  {
+    "code": "HR_SUMMARY_PROFESSIONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Professional Details"
+  },
+  {
+    "code": "HR_SUMMARY_PROFESSIONAL_DEATILS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Professional Details"
+  },
+  {
+    "code": "HR_TEST_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Name"
+  },
+  {
+    "code": "HR_TEST_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Name"
+  },
+  {
+    "code": "HR_TEST_NAME_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Test Name"
+  },
+  {
+    "code": "HR_TEST_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Test Name"
+  },
+  {
+    "code": "HR_TEST_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Test Name"
+  },
+  {
+    "code": "HR_TEST_NAME_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Test Name"
+  },
+  {
+    "code": "HR_ULB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "HR_ULB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "HR_ULB_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Locality"
+  },
+  {
+    "code": "HR_UNIVERSITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "University"
+  },
+  {
+    "code": "HR_UNIVERSITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "University"
+  },
+  {
+    "code": "HR_UNIVERSITY_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "University"
+  },
+  {
+    "code": "HR_UNIVERSITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select University"
+  },
+  {
+    "code": "HR_UNIVERSITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select University"
+  },
+  {
+    "code": "HR_UNIVERSITY_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select University"
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Updated Successfully"
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Updated Successfully"
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_MESSAGE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Updated Successfully"
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_UPDATE_SUCCESS_SUBHEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": " "
+  },
+  {
+    "code": "HR_UPLOAD_FILES_BUTTON_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Upload Files"
+  },
+  {
+    "code": "HR_UPLOAD_FILES_BUTTON_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Upload Files"
+  },
+  {
+    "code": "HR_UPLOAD_FILES_BUTTON_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Upload Files"
+  },
+  {
+    "code": "HR_UPLOAD_FILES_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "UPLOAD FILES"
+  },
+  {
+    "code": "HR_UPLOAD_FILES_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "UPLOAD FILES"
+  },
+  {
+    "code": "HR_UPLOAD_FILES_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "UPLOAD FILES"
+  },
+  {
+    "code": "HR_VIEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "View Employee Information"
+  },
+  {
+    "code": "HR_VIEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "View Employee Information"
+  },
+  {
+    "code": "HR_VIEW_HEADER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "View Employee Information"
+  },
+  {
+    "code": "HR_YEAR_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Year"
+  },
+  {
+    "code": "HR_YEAR_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Year"
+  },
+  {
+    "code": "HR_YEAR_LABEL",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Year"
+  },
+  {
+    "code": "HR_YEAR_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Year"
+  },
+  {
+    "code": "HR_YEAR_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Year"
+  },
+  {
+    "code": "HR_YEAR_PLACEHOLDER",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Select Year"
+  },
+  {
+    "code": "PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Permanent"
+  },
+  {
+    "code": "PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Permanent"
+  },
+  {
+    "code": "PERMANENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Permanent"
+  },
+  {
+    "code": "reports.hrms.department",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Department"
+  },
+  {
+    "code": "reports.hrms.department",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Department"
+  },
+  {
+    "code": "reports.hrms.department",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Department"
+  },
+  {
+    "code": "reports.hrms.designation",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Designation"
+  },
+  {
+    "code": "reports.hrms.designation",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Designation"
+  },
+  {
+    "code": "reports.hrms.designation",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Designation"
+  },
+  {
+    "code": "reports.hrms.id",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Id"
+  },
+  {
+    "code": "reports.hrms.id",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Id"
+  },
+  {
+    "code": "reports.hrms.id",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Id"
+  },
+  {
+    "code": "reports.hrms.name",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "reports.hrms.name",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "reports.hrms.name",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Name"
+  },
+  {
+    "code": "reports.hrms.role",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Roles"
+  },
+  {
+    "code": "reports.hrms.role",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Roles"
+  },
+  {
+    "code": "reports.hrms.role",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Roles"
+  },
+  {
+    "code": "reports.hrms.status",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Status"
+  },
+  {
+    "code": "reports.hrms.status",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Status"
+  },
+  {
+    "code": "reports.hrms.status",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Employee Status"
+  },
+  {
+    "code": "REVENUE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Revenue"
+  },
+  {
+    "code": "REVENUE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Revenue"
+  },
+  {
+    "code": "REVENUE",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Revenue"
+  },
+  {
+    "code": "TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Temporary"
+  },
+  {
+    "code": "TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Temporary"
+  },
+  {
+    "code": "TEMPORARY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Temporary"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_CITYA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Victoria"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_CITYA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Victoria"
+  },
+  {
+    "code": "TENANT_TENANTS_PB_CITYA",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Victoria"
+  },
+  {
+    "code": "TL_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "TL_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "TL_ADD_ASSIGNMENT",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD ASSIGNMENT"
+  },
+  {
+    "code": "TL_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "TL_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "TL_ADD_JURISDICTION",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD JURISDICTION"
+  },
+  {
+    "code": "TL_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "TL_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "TL_ADD_QUALIFICATIONS",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD QUALIFICATIONS"
+  },
+  {
+    "code": "TL_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "TL_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "TL_ADD_SERVICE_ENTRY",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD SERVICE ENTRY"
+  },
+  {
+    "code": "TL_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "TL_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "TL_ADD_TEST",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "ADD TEST"
+  },
+  {
+    "code": "TL_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "GO TO HOME"
+  },
+  {
+    "code": "TL_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "GO TO HOME"
+  },
+  {
+    "code": "TL_COMMON_BUTTON_HOME",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "GO TO HOME"
+  },
+  {
+    "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search"
+  },
+  {
+    "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search"
+  },
+  {
+    "code": "TL_HOME_SEARCH_RESULTS_BUTTON_SEARCH",
+    "locale": "default",
+    "module": "rainmaker-hr",
+    "message": "Search"
+  }
+]

@@ -1,0 +1,2233 @@
+[
+  {
+    "tenantId": "ciboot.citya",
+    "data": {
+      "code": "ciboot.citya",
+      "name": "Bootstrap Test City",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids14576.security",
+    "data": {
+      "code": "cids14576.security",
+      "name": "Cids14576 Security",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids30947.security",
+    "data": {
+      "code": "cids30947.security",
+      "name": "Cids30947 Security",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciregtest.citya",
+    "data": {
+      "code": "ciregtest.citya",
+      "name": "Ciregtest Citya",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf14536.workflow",
+    "data": {
+      "code": "ciwf14536.workflow",
+      "name": "Ciwf14536 Workflow",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf30832.workflow",
+    "data": {
+      "code": "ciwf30832.workflow",
+      "name": "Ciwf30832 Workflow",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi14638.citya",
+    "data": {
+      "code": "ciwfi14638.citya",
+      "name": "Ciwfi14638 Citya",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi31083.citya",
+    "data": {
+      "code": "ciwfi31083.citya",
+      "name": "Ciwfi31083 Citya",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "pg",
+      "name": "Demo",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ke.bomet",
+    "data": {
+      "code": "ke.bomet",
+      "name": "Bomet County",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "pg",
+      "name": "Demo",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.ciadm14634",
+    "data": {
+      "code": "pg.ciadm14634",
+      "name": "CI Admin Test 14634",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.ciadm31080",
+    "data": {
+      "code": "pg.ciadm31080",
+      "name": "CI Admin Test 31080",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.cibndauth",
+    "data": {
+      "code": "pg.cibndauth",
+      "name": "CI Bnd Auth Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.cicounts",
+    "data": {
+      "code": "pg.cicounts",
+      "name": "CI Counts Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.cidept",
+    "data": {
+      "code": "pg.cidept",
+      "name": "CI Dept Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.cidesig",
+    "data": {
+      "code": "pg.cidesig",
+      "name": "CI Desig Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.ciemp14628",
+    "data": {
+      "code": "pg.ciemp14628",
+      "name": "CI Emp Test 14628",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.ciemp31074",
+    "data": {
+      "code": "pg.ciemp31074",
+      "name": "CI Emp Test 31074",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.circt14616",
+    "data": {
+      "code": "pg.circt14616",
+      "name": "CI Reactivation Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.circt31062",
+    "data": {
+      "code": "pg.circt31062",
+      "name": "CI Reactivation Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg.citest",
+    "data": {
+      "code": "pg.citest",
+      "name": "CI Test",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "ಕನ್ನಡ",
+          "value": "ka_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "statea",
+      "name": "Demo",
+      "logoUrl": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Punjab-bg-QA.jpg",
+      "languages": [
+        {
+          "label": "ENGLISH",
+          "value": "en_IN"
+        },
+        {
+          "label": "हिंदी",
+          "value": "hi_IN"
+        }
+      ],
+      "qrCodeURL": "https://lh3.googleusercontent.com/-311gz2-xcHw/X6KRNSQTkWI/AAAAAAAAAKU/JmHSj-6rKPMVFbo6oL5x4JhYTTg8-UHmwCK8BGAsYHg/s0/2020-11-04.png",
+      "statelogo": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "defaultUrl": {
+        "citizen": "/user/register",
+        "employee": "/user/login"
+      },
+      "logoUrlWhite": "https://storage.googleapis.com/stateless-printlion-co-ke2/2024/03/f061daec-government-vector-icons_bomet-county-logo_bomet-county-logo.jpg",
+      "hasLocalisation": true,
+      "localizationModules": [
+        {
+          "label": "rainmaker-abg",
+          "value": "rainmaker-abg"
+        },
+        {
+          "label": "rainmaker-common",
+          "value": "rainmaker-common"
+        },
+        {
+          "label": "rainmaker-noc",
+          "value": "rainmaker-noc"
+        },
+        {
+          "label": "rainmaker-pt",
+          "value": "rainmaker-pt"
+        },
+        {
+          "label": "rainmaker-uc",
+          "value": "rainmaker-uc"
+        },
+        {
+          "label": "rainmaker-pgr",
+          "value": "rainmaker-pgr"
+        },
+        {
+          "label": "rainmaker-tl",
+          "value": "rainmaker-tl"
+        },
+        {
+          "label": "rainmaker-hr",
+          "value": "rainmaker-hr"
+        },
+        {
+          "label": "rainmaker-test",
+          "value": "rainmaker-test"
+        },
+        {
+          "label": "finance-erp",
+          "value": "finance-erp"
+        },
+        {
+          "label": "rainmaker-receipt",
+          "value": "rainmaker-receipt"
+        },
+        {
+          "label": "rainmaker-dss",
+          "value": "rainmaker-dss"
+        },
+        {
+          "label": "rainmaker-fsm",
+          "value": "rainmaker-fsm"
+        },
+        {
+          "label": "rainmaker-workbench",
+          "value": "rainmaker-workbench"
+        },
+        {
+          "label": "rainmaker-schema",
+          "value": "rainmaker-schema"
+        },
+        {
+          "label": "rainmaker-mdms",
+          "value": "rainmaker-mdms"
+        },
+        {
+          "label": "rainmaker-im",
+          "value": "rainmaker-im"
+        }
+      ]
+    }
+  }
+]

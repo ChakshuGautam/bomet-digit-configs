@@ -1,0 +1,581 @@
+[
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciboot"
+        },
+        {
+          "code": "ciboot.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciboot"
+        },
+        {
+          "code": "ciboot.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciboot"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "cids14576"
+        },
+        {
+          "code": "cids14576.security"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "cids14576"
+        },
+        {
+          "code": "cids14576.security"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "cids14576"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "cids30947"
+        },
+        {
+          "code": "cids30947.security"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "cids30947"
+        },
+        {
+          "code": "cids30947.security"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "cids30947"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciregtest"
+        },
+        {
+          "code": "ciregtest.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciregtest"
+        },
+        {
+          "code": "ciregtest.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciregtest"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciwf14536"
+        },
+        {
+          "code": "ciwf14536.workflow"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciwf14536"
+        },
+        {
+          "code": "ciwf14536.workflow"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciwf14536"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciwf30832"
+        },
+        {
+          "code": "ciwf30832.workflow"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciwf30832"
+        },
+        {
+          "code": "ciwf30832.workflow"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciwf30832"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciwfi14638"
+        },
+        {
+          "code": "ciwfi14638.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciwfi14638"
+        },
+        {
+          "code": "ciwfi14638.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciwfi14638"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ciwfi31083"
+        },
+        {
+          "code": "ciwfi31083.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ciwfi31083"
+        },
+        {
+          "code": "ciwfi31083.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ciwfi31083"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "ke"
+        },
+        {
+          "code": "ke.bomet"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "ke"
+        },
+        {
+          "code": "ke.bomet"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "ke"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "Workbench",
+      "order": 13,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.citya"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.citest"
+        },
+        {
+          "code": "pg.cidesig"
+        },
+        {
+          "code": "pg.cidept"
+        },
+        {
+          "code": "pg.cicounts"
+        },
+        {
+          "code": "pg.cibndauth"
+        },
+        {
+          "code": "pg.circt14616"
+        },
+        {
+          "code": "pg.ciemp14628"
+        },
+        {
+          "code": "pg.ciadm14634"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "code": "HRMS",
+      "order": 2,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "pg"
+        },
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.citest"
+        },
+        {
+          "code": "pg.cidesig"
+        },
+        {
+          "code": "pg.cidept"
+        },
+        {
+          "code": "pg.cicounts"
+        },
+        {
+          "code": "pg.cibndauth"
+        },
+        {
+          "code": "pg.circt14616"
+        },
+        {
+          "code": "pg.ciemp14628"
+        },
+        {
+          "code": "pg.ciadm14634"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "HRMS",
+      "order": 3,
+      "active": true,
+      "module": "HRMS",
+      "tenants": [
+        {
+          "code": "statea"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "PGR",
+      "order": 2,
+      "active": true,
+      "module": "PGR",
+      "tenants": [
+        {
+          "code": "statea"
+        }
+      ]
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "code": "Workbench",
+      "order": 1,
+      "active": true,
+      "module": "Workbench",
+      "tenants": [
+        {
+          "code": "statea"
+        }
+      ]
+    }
+  }
+]

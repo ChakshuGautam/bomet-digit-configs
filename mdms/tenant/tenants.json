@@ -1,0 +1,657 @@
+[
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "city": {
+        "code": "CIBOOT",
+        "name": "Ciboot",
+        "districtCode": "CIBOOT",
+        "districtName": "Ciboot"
+      },
+      "code": "ciboot",
+      "name": "Ciboot",
+      "tenantId": "ciboot",
+      "description": "State tenant root: ciboot"
+    }
+  },
+  {
+    "tenantId": "ciboot",
+    "data": {
+      "city": {
+        "code": "CIBOOT_CITYA",
+        "name": "Bootstrap Test City",
+        "districtName": "Bootstrap Test City"
+      },
+      "code": "ciboot.citya",
+      "name": "Bootstrap Test City",
+      "type": "CITY",
+      "tenantId": "ciboot.citya"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "city": {
+        "code": "CIDS14576",
+        "name": "Cids14576",
+        "districtCode": "CIDS14576",
+        "districtName": "Cids14576"
+      },
+      "code": "cids14576",
+      "name": "Cids14576",
+      "tenantId": "cids14576",
+      "description": "State tenant root: cids14576"
+    }
+  },
+  {
+    "tenantId": "cids14576",
+    "data": {
+      "city": {
+        "code": "CIDS14576_SECURITY",
+        "name": "Cids14576 Security",
+        "districtName": "Cids14576 Security"
+      },
+      "code": "cids14576.security",
+      "name": "Cids14576 Security",
+      "type": "CITY",
+      "tenantId": "cids14576.security"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "city": {
+        "code": "CIDS30947",
+        "name": "Cids30947",
+        "districtCode": "CIDS30947",
+        "districtName": "Cids30947"
+      },
+      "code": "cids30947",
+      "name": "Cids30947",
+      "tenantId": "cids30947",
+      "description": "State tenant root: cids30947"
+    }
+  },
+  {
+    "tenantId": "cids30947",
+    "data": {
+      "city": {
+        "code": "CIDS30947_SECURITY",
+        "name": "Cids30947 Security",
+        "districtName": "Cids30947 Security"
+      },
+      "code": "cids30947.security",
+      "name": "Cids30947 Security",
+      "type": "CITY",
+      "tenantId": "cids30947.security"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "city": {
+        "code": "CIREGTEST",
+        "name": "Ciregtest",
+        "districtCode": "CIREGTEST",
+        "districtName": "Ciregtest"
+      },
+      "code": "ciregtest",
+      "name": "Ciregtest",
+      "tenantId": "ciregtest",
+      "description": "State tenant root: ciregtest"
+    }
+  },
+  {
+    "tenantId": "ciregtest",
+    "data": {
+      "city": {
+        "code": "CIREGTEST_CITYA",
+        "name": "Ciregtest Citya",
+        "districtName": "Ciregtest Citya"
+      },
+      "code": "ciregtest.citya",
+      "name": "Ciregtest Citya",
+      "type": "CITY",
+      "tenantId": "ciregtest.citya"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "city": {
+        "code": "CIWF14536",
+        "name": "Ciwf14536",
+        "districtCode": "CIWF14536",
+        "districtName": "Ciwf14536"
+      },
+      "code": "ciwf14536",
+      "name": "Ciwf14536",
+      "tenantId": "ciwf14536",
+      "description": "State tenant root: ciwf14536"
+    }
+  },
+  {
+    "tenantId": "ciwf14536",
+    "data": {
+      "city": {
+        "code": "CIWF14536_WORKFLOW",
+        "name": "Ciwf14536 Workflow",
+        "districtName": "Ciwf14536 Workflow"
+      },
+      "code": "ciwf14536.workflow",
+      "name": "Ciwf14536 Workflow",
+      "type": "CITY",
+      "tenantId": "ciwf14536.workflow"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "city": {
+        "code": "CIWF30832",
+        "name": "Ciwf30832",
+        "districtCode": "CIWF30832",
+        "districtName": "Ciwf30832"
+      },
+      "code": "ciwf30832",
+      "name": "Ciwf30832",
+      "tenantId": "ciwf30832",
+      "description": "State tenant root: ciwf30832"
+    }
+  },
+  {
+    "tenantId": "ciwf30832",
+    "data": {
+      "city": {
+        "code": "CIWF30832_WORKFLOW",
+        "name": "Ciwf30832 Workflow",
+        "districtName": "Ciwf30832 Workflow"
+      },
+      "code": "ciwf30832.workflow",
+      "name": "Ciwf30832 Workflow",
+      "type": "CITY",
+      "tenantId": "ciwf30832.workflow"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "city": {
+        "code": "CIWFI14638",
+        "name": "Ciwfi14638",
+        "districtCode": "CIWFI14638",
+        "districtName": "Ciwfi14638"
+      },
+      "code": "ciwfi14638",
+      "name": "Ciwfi14638",
+      "tenantId": "ciwfi14638",
+      "description": "State tenant root: ciwfi14638"
+    }
+  },
+  {
+    "tenantId": "ciwfi14638",
+    "data": {
+      "city": {
+        "code": "CIWFI14638_CITYA",
+        "name": "Ciwfi14638 Citya",
+        "districtName": "Ciwfi14638 Citya"
+      },
+      "code": "ciwfi14638.citya",
+      "name": "Ciwfi14638 Citya",
+      "type": "CITY",
+      "tenantId": "ciwfi14638.citya"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "city": {
+        "code": "CIWFI31083",
+        "name": "Ciwfi31083",
+        "districtCode": "CIWFI31083",
+        "districtName": "Ciwfi31083"
+      },
+      "code": "ciwfi31083",
+      "name": "Ciwfi31083",
+      "tenantId": "ciwfi31083",
+      "description": "State tenant root: ciwfi31083"
+    }
+  },
+  {
+    "tenantId": "ciwfi31083",
+    "data": {
+      "city": {
+        "code": "CIWFI31083_CITYA",
+        "name": "Ciwfi31083 Citya",
+        "districtName": "Ciwfi31083 Citya"
+      },
+      "code": "ciwfi31083.citya",
+      "name": "Ciwfi31083 Citya",
+      "type": "CITY",
+      "tenantId": "ciwfi31083.citya"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "city": {
+        "code": "KE",
+        "name": "Ke",
+        "latitude": 0.0236,
+        "longitude": 37.9062,
+        "districtCode": "KE",
+        "districtName": "Ke"
+      },
+      "code": "ke",
+      "name": "Ke",
+      "tenantId": "ke",
+      "description": "State tenant root: ke"
+    }
+  },
+  {
+    "tenantId": "ke",
+    "data": {
+      "city": {
+        "code": "KE_BOMET",
+        "name": "Bomet County",
+        "latitude": -0.7817,
+        "longitude": 35.3428,
+        "districtName": "Bomet County"
+      },
+      "code": "ke.bomet",
+      "name": "Bomet County",
+      "type": "CITY",
+      "parent": "ke",
+      "tenantId": "ke.bomet"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "107",
+        "name": "City B",
+        "captcha": null,
+        "ddrName": "DDR A",
+        "latitude": 31.6339793,
+        "ulbGrade": "Municipal Corporation",
+        "localName": null,
+        "longitude": 74.8722642,
+        "regionName": null,
+        "districtCode": "CITYB",
+        "districtName": null,
+        "shapeFileLocation": null,
+        "districtTenantCode": "pg.cityb"
+      },
+      "code": "pg.cityb",
+      "name": "City B",
+      "type": "CITY",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.cityb/logo.png",
+      "address": "City B Municipal Corporation Address",
+      "emailId": "cityb@gmail.com",
+      "imageId": null,
+      "pincode": [
+        143006,
+        143007,
+        143008,
+        143009,
+        143010
+      ],
+      "domainUrl": "https://www.egovernments.org",
+      "twitterUrl": null,
+      "description": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Sat": "9.00 AM - 12.00 PM",
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "1013",
+        "name": "City A",
+        "captcha": null,
+        "ddrName": "DDR A",
+        "latitude": 31.3260152,
+        "ulbGrade": "Municipal Corporation",
+        "localName": null,
+        "longitude": 75.5761829,
+        "regionName": null,
+        "districtCode": "CITYA",
+        "districtName": null,
+        "shapeFileLocation": null,
+        "districtTenantCode": "pg.citya"
+      },
+      "code": "pg.citya",
+      "name": "City A",
+      "type": "CITY",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "address": "City A Municipal Corporation",
+      "emailId": "citya@gmail.com",
+      "imageId": null,
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "domainUrl": "https://www.egovernments.org",
+      "twitterUrl": null,
+      "description": "City A",
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "001-2345876"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIADM14634",
+        "name": "CI Admin Test 14634",
+        "districtName": "CI Admin Test 14634"
+      },
+      "code": "pg.ciadm14634",
+      "name": "CI Admin Test 14634",
+      "type": "CITY",
+      "tenantId": "pg.ciadm14634"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIADM31080",
+        "name": "CI Admin Test 31080",
+        "districtName": "CI Admin Test 31080"
+      },
+      "code": "pg.ciadm31080",
+      "name": "CI Admin Test 31080",
+      "type": "CITY",
+      "tenantId": "pg.ciadm31080"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIBNDAUTH",
+        "name": "CI Bnd Auth Test",
+        "districtName": "CI Bnd Auth Test"
+      },
+      "code": "pg.cibndauth",
+      "name": "CI Bnd Auth Test",
+      "type": "CITY",
+      "tenantId": "pg.cibndauth"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CICOUNTS",
+        "name": "CI Counts Test",
+        "districtName": "CI Counts Test"
+      },
+      "code": "pg.cicounts",
+      "name": "CI Counts Test",
+      "type": "CITY",
+      "tenantId": "pg.cicounts"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIDEPT",
+        "name": "CI Dept Test",
+        "districtName": "CI Dept Test"
+      },
+      "code": "pg.cidept",
+      "name": "CI Dept Test",
+      "type": "CITY",
+      "tenantId": "pg.cidept"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIDESIG",
+        "name": "CI Desig Test",
+        "districtName": "CI Desig Test"
+      },
+      "code": "pg.cidesig",
+      "name": "CI Desig Test",
+      "type": "CITY",
+      "tenantId": "pg.cidesig"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIEMP14628",
+        "name": "CI Emp Test 14628",
+        "districtName": "CI Emp Test 14628"
+      },
+      "code": "pg.ciemp14628",
+      "name": "CI Emp Test 14628",
+      "type": "CITY",
+      "tenantId": "pg.ciemp14628"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIEMP31074",
+        "name": "CI Emp Test 31074",
+        "districtName": "CI Emp Test 31074"
+      },
+      "code": "pg.ciemp31074",
+      "name": "CI Emp Test 31074",
+      "type": "CITY",
+      "tenantId": "pg.ciemp31074"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIRCT14616",
+        "name": "CI Reactivation Test",
+        "districtName": "CI Reactivation Test"
+      },
+      "code": "pg.circt14616",
+      "name": "CI Reactivation Test",
+      "type": "CITY",
+      "tenantId": "pg.circt14616"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CIRCT31062",
+        "name": "CI Reactivation Test",
+        "districtName": "CI Reactivation Test"
+      },
+      "code": "pg.circt31062",
+      "name": "CI Reactivation Test",
+      "type": "CITY",
+      "tenantId": "pg.circt31062"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PG_CITEST",
+        "name": "CI Test",
+        "districtName": "CI Test"
+      },
+      "code": "pg.citest",
+      "name": "CI Test",
+      "type": "CITY",
+      "tenantId": "pg.citest"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "PB",
+        "name": "Punjab"
+      },
+      "code": "pg",
+      "name": "Punjab",
+      "tenantId": "pg"
+    }
+  },
+  {
+    "tenantId": "pg",
+    "data": {
+      "city": {
+        "code": "CITYA",
+        "name": "City A"
+      },
+      "code": "pg.citya",
+      "name": "City A",
+      "parent": "pg",
+      "tenantId": "pg.citya"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "city": {
+        "code": "100",
+        "name": "State A",
+        "captcha": null,
+        "ddrName": "",
+        "latitude": 31.6339793,
+        "ulbGrade": "Municipal Corporation",
+        "localName": null,
+        "longitude": 74.8722642,
+        "regionName": null,
+        "districtCode": "STATEA",
+        "districtName": null,
+        "shapeFileLocation": null,
+        "districtTenantCode": "statea"
+      },
+      "code": "statea",
+      "name": "State A",
+      "type": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/works-dev-asset/pg/logo.png",
+      "address": "State A Municipal Corporation Address",
+      "emailId": "statea@gmail.com",
+      "imageId": null,
+      "pincode": [],
+      "domainUrl": "https://www.egovernments.org",
+      "twitterUrl": null,
+      "description": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Sat": "9.00 AM - 12.00 PM",
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "city": {
+        "code": "1013",
+        "name": "City A",
+        "captcha": null,
+        "ddrName": "DDR A",
+        "latitude": 31.3260152,
+        "ulbGrade": "Municipal Corporation",
+        "localName": null,
+        "longitude": 75.5761829,
+        "regionName": null,
+        "districtCode": "CITYA",
+        "districtName": null,
+        "shapeFileLocation": null,
+        "districtTenantCode": "statea.citya"
+      },
+      "code": "statea.citya",
+      "name": "City A",
+      "type": "CITY",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "address": "City A Municipal Corporation",
+      "emailId": "citya@gmail.com",
+      "imageId": null,
+      "pincode": [
+        143001,
+        143002,
+        143003,
+        143004,
+        143005
+      ],
+      "domainUrl": "https://www.egovernments.org",
+      "twitterUrl": null,
+      "description": "City A",
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "001-2345876"
+    }
+  },
+  {
+    "tenantId": "statea",
+    "data": {
+      "city": {
+        "code": "107",
+        "name": "City B",
+        "captcha": null,
+        "ddrName": "DDR A",
+        "latitude": 31.6339793,
+        "ulbGrade": "Municipal Corporation",
+        "localName": null,
+        "longitude": 74.8722642,
+        "regionName": null,
+        "districtCode": "CITYB",
+        "districtName": null,
+        "shapeFileLocation": null,
+        "districtTenantCode": "statea.cityb"
+      },
+      "code": "statea.cityb",
+      "name": "City B",
+      "type": "CITY",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.cityb/logo.png",
+      "address": "City B Municipal Corporation Address",
+      "emailId": "cityb@gmail.com",
+      "imageId": null,
+      "pincode": [
+        143006,
+        143007,
+        143008,
+        143009,
+        143010
+      ],
+      "domainUrl": "https://www.egovernments.org",
+      "twitterUrl": null,
+      "description": null,
+      "facebookUrl": null,
+      "OfficeTimings": {
+        "Sat": "9.00 AM - 12.00 PM",
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "code": "CORE_NO",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "No"
+  },
+  {
+    "code": "CORE_NO",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "No"
+  },
+  {
+    "code": "CORE_NO",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "No"
+  },
+  {
+    "code": "CORE_YES",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "Yes"
+  },
+  {
+    "code": "CORE_YES",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "Yes"
+  },
+  {
+    "code": "CORE_YES",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "Yes"
+  },
+  {
+    "code": "Pt-test",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "testingss"
+  },
+  {
+    "code": "Pt-test",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "testingss"
+  },
+  {
+    "code": "Pt-test",
+    "locale": "en_IN",
+    "module": "rainmaker-hrms",
+    "message": "testingss"
+  }
+]
